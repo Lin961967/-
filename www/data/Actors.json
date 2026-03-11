@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$6","classId":5,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"zhujue","traits":[],"initialLevel":1,"maxLevel":99,"name":"特蕾西","nickname":"Tracy","note":"<UTB Sprite: heart>","profile":"一个人工智能专业的大学生。"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$13","classId":5,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"zhujue","traits":[],"initialLevel":1,"maxLevel":99,"name":"奈布","nickname":"naib","note":"","profile":"他似乎没写简介。"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"$4","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"zhujue","traits":[],"initialLevel":1,"maxLevel":99,"name":"卢卡","nickname":"","note":"","profile":"世界上最聪明的天才。"}
+]

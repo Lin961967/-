@@ -1,0 +1,20 @@
+@font-face {
+    font-family: GameFont;
+    src: url("MyFont-CN.ttf");
+}
+
+@font-face {
+    font-family: GameFont-LATIN; /* 这里起个名字叫 GameFont-LATIN */
+    src: url("MyFont-LATIN.ttf"); /* 指向你的拉丁字体文件 */
+}
+
+* {
+    font-family: GameFont-CN, GameFont-LATIN, sans-serif;
+}
+
+.IIV::-webkit-media-controls-play-button,
+video::-webkit-media-controls-start-playback-button {
+    opacity: 0;
+    pointer-events: none;
+    width: 5px;
+}
